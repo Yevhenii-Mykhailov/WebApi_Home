@@ -1,0 +1,15 @@
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/bin/Debug/net6.0/WebApi_BL.deps.json
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/bin/Debug/net6.0/WebApi_BL.dll
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/bin/Debug/net6.0/WebApi_BL.pdb
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/bin/Debug/net6.0/WebApi_DAL.dll
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/bin/Debug/net6.0/WebApi_DAL.pdb
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/WebApi_BL.csproj.AssemblyReference.cache
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/WebApi_BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/WebApi_BL.AssemblyInfoInputs.cache
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/WebApi_BL.AssemblyInfo.cs
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/WebApi_BL.csproj.CoreCompileInputs.cache
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/WebApi_BL.csproj.CopyComplete
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/WebApi_BL.dll
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/refint/WebApi_BL.dll
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/WebApi_BL.pdb
+/Users/evg/Projects/WebApi_PRO/WebApi_BL/obj/Debug/net6.0/ref/WebApi_BL.dll

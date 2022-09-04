@@ -1,0 +1,14 @@
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/bin/Debug/net6.0/WebApi_DAL.deps.json
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/bin/Debug/net6.0/WebApi_DAL.runtimeconfig.json
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/bin/Debug/net6.0/WebApi_DAL.dll
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/bin/Debug/net6.0/WebApi_DAL.pdb
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/WebApi_DAL.csproj.AssemblyReference.cache
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/WebApi_DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/WebApi_DAL.AssemblyInfoInputs.cache
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/WebApi_DAL.AssemblyInfo.cs
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/WebApi_DAL.csproj.CoreCompileInputs.cache
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/WebApi_DAL.dll
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/refint/WebApi_DAL.dll
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/WebApi_DAL.pdb
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/WebApi_DAL.genruntimeconfig.cache
+/Users/evg/Projects/WebApi_PRO/WebApi_DAL/obj/Debug/ref/WebApi_DAL.dll

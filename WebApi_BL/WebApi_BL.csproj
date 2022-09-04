@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\net6.0</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebApi_DAL\WebApi_DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="GoodsService\" />
+    <None Remove="WarehouseService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GoodsService\" />
+    <Folder Include="WarehouseService\" />
+  </ItemGroup>
+</Project>
